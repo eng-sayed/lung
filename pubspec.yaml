@@ -38,6 +38,13 @@ dependencies:
   cupertino_icons: ^1.0.2
   # flutter_html: ^2.2.1
   syncfusion_flutter_pdfviewer: ^20.4.44
+  workmanager: ^0.5.1
+  flutter_background_service: ^2.4.6
+  geolocator:
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  app_settings: ^4.2.0
+  open_settings: ^2.0.2
 
 dev_dependencies:
   flutter_test:

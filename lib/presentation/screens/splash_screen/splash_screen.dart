@@ -42,7 +42,8 @@ class _SplashScreenState extends State<SplashScreen> {
                 // gaplessPlayback: true,
                 fit: BoxFit.fill,
                 // width: double.infinity,
-                // height: double.infinity,
+                // height: double.infinity,\
+                //////
               ).image)),
           height: MediaQuery.of(context).size.height,
           width: MediaQuery.of(context).size.width,
