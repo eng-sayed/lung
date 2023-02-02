@@ -29,6 +29,7 @@ Future<void> onStart(ServiceInstance service) async {
 
   Timer.periodic(Duration(seconds: 3), (s) async {
     bool serviceEnabled = await Geolocator.isLocationServiceEnabled();
+    //dsffdsfdsfd
     // if (!serviceEnabled) {
     //   await OpenSettings.openLocationSourceSetting();
     //   //await Geolocator.openAppSettings();
